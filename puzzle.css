@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+ 
+#startdiv{
+    text-align: center;
+}
+
+#enddiv{
+    text-align: center;
+}
+
+#start{
+    font-family: 'Frijole', cursive;
+    font-size: 30px;
+    color: red;
+    background: white;
+    border-radius: 5px;
+}
+#end{
+    
+    font-family: 'Frijole', cursive;
+    font-size: 30px;
+    color: red;
+    background: white;
+    border-radius: 5px;
+}
+
+
+
+
+
+#puzzle{
+    margin: 10px auto;
+}
+
+#checkBox1{
+    margin: 10px auto ;
+}
+
+#check1{
+    margin: 10px auto;
+}
+
+
+
+#puzzle button{
+    font-family: 'Frijole', cursive;
+    font-size: 40px;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    color: blue;
+    background: white;
+    border-radius: 5px;
+}
+ 
+#finish{
+    font-family: 'Frijole', cursive;
+    font-size: 40px;
+    text-align: center;
+}
+#title{
+    font-family: 'Frijole', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
